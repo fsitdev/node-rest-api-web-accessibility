@@ -15,6 +15,6 @@
   "dependencies": {
     "express": "^4.16.3",
     "lighthouse": "^3.0.2",
-    "mongoose": "^5.2.3"
+    "mongoose": "^5.7.5"
   }
 }
